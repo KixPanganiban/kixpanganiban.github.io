@@ -1,5 +1,5 @@
 {
   "url": "https://yaaan.notion.site/46344232c29d418393715aa47f173b46?v=7d3b8c16fbf94d6c9d7a5b34ca5b6fa7",
   "theme": "pure-ejs",
-  "previewBrowser": "/usr/bin/chromium"
+  "previewBrowser": "open"
 }
